@@ -1,0 +1,15 @@
+Win32/
+Win64/
+SQL/
+ModelSupport_GSLE/
+docs/
+__history/
+__recovery/
+images/
+sqlnet.log
+GSLE.todo
+GSLE_Icon1.ico
+GSLE_project.tvsconfig
+GSLE-YSR-2.identcache
+GSLE-YSR.identcache
+GSLE_Icon.ico
